@@ -1,0 +1,13 @@
+.button {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+#Red { background-color: red; }
+#Blue { background-color: blue; }
+#Yellow { background-color: yellow; }
+#Green { background-color: green; }
